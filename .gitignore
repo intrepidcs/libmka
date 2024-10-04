@@ -1,0 +1,17 @@
+_build/
+build/
+build*/
+.DS_Store
+Thumbs.db
+CMakeSettings.json
+.vscode
+third-party/concurrentqueue/benchmarks
+third-party/concurrentqueue/tests
+*.bak
+.vs
+.cache
+*.wav
+*.orig
+examples/csharp/bin
+examples/csharp/obj
+test/system
