@@ -12,6 +12,7 @@ third-party/concurrentqueue/tests
 .cache
 *.wav
 *.orig
+*.pcapng
 examples/csharp/bin
 examples/csharp/obj
 test/system
